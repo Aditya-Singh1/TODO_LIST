@@ -5,11 +5,11 @@ import { deleteData } from '../Redux/Action/ActionCreate'
 
 const DisplayTodo = ({props ,deleteData}) => {
 
-        const style={
-        height:"400px",
-        marginLeft:"150px",
+        // const style={
+        // height:"400px",
+        // marginLeft:"150px",
         
-    }
+    // }
 const list={
     height:"50px",
     width:"80%",
