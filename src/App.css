@@ -1,0 +1,45 @@
+*{margin: 0%;padding: 0%;}
+.form{
+  width: 80%;
+  height:200px;
+  background-color: wheat;
+  text-align: right;
+  margin-top: 10vh;
+
+
+}
+
+input{
+  width:70%;
+  height:40px;
+ margin:2% ;
+ font-size: 1.3rem;
+ 
+}
+
+.form button {
+  width:80px;
+  height:40px;
+  background-color: greenyellow;
+  font-size: 1.3rem;
+  margin-right: 15px;
+}
+
+.displayTodo{
+  width:80%;
+  height:90vh;
+  background-color: aliceblue;
+  margin-top: 5vh;
+}
+
+
+ .list {
+  width:80%;
+  height:40px;
+  background-color:tomato;
+  margin-top: 1vh;
+}
+span{
+  font-size: 1.3rem;
+
+}
